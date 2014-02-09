@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[おぽぽぽにっき]]></title>
+  <link href="http://marji81.github.io/atom.xml" rel="self"/>
+  <link href="http://marji81.github.io/"/>
+  <updated>2014-02-09T19:07:02+09:00</updated>
+  <id>http://marji81.github.io/</id>
+  <author>
+    <name><![CDATA[marji]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[こんにちは　世界]]></title>
+    <link href="http://marji81.github.io/blog/2014/02/09/first-post/"/>
+    <updated>2014-02-09T18:41:57+09:00</updated>
+    <id>http://marji81.github.io/blog/2014/02/09/first-post</id>
+    <content type="html"><![CDATA[<p>わたしです＾ｐ＾</p>
+]]></content>
+  </entry>
+  
+</feed>
