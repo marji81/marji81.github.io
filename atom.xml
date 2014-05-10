@@ -4,7 +4,7 @@
   <title><![CDATA[おぽぽぽにっき]]></title>
   <link href="http://marji81.github.io/atom.xml" rel="self"/>
   <link href="http://marji81.github.io/"/>
-  <updated>2014-02-10T02:53:40+09:00</updated>
+  <updated>2014-05-10T17:58:48+09:00</updated>
   <id>http://marji81.github.io/</id>
   <author>
     <name><![CDATA[marji]]></name>
@@ -12,6 +12,25 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[test_slideshare]]></title>
+    <link href="http://marji81.github.io/blog/2014/05/10/test-slideshare/"/>
+    <updated>2014-05-10T17:43:19+09:00</updated>
+    <id>http://marji81.github.io/blog/2014/05/10/test-slideshare</id>
+    <content type="html"><![CDATA[<p>slide share testおお</p>
+
+<!-- more -->
+
+
+
+
+<iframe src="http://www.slideshare.net/slideshow/embed_code/34509193" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[こわくないサンホラ入門]]></title>
@@ -24,6 +43,9 @@
 <p>サンホラを友人に薦めるもあまり刺さらない・・！<br>
 なぜ？なぜなのよおおお？<br>
 ひとえにわかりやすい説明ができてないからではないか。<br></p>
+
+<!-- more -->
+
 
 <p>そう思ったので自分もそんなに詳しいわけではないのですが超初心者向けのサンホラ解説をしたいと思います。<br></p>
 
